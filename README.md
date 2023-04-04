@@ -17,6 +17,6 @@ create an app with the same features as Tik Tok in order to demonstate knowledge
 ```
 Hosting URL: https://tiktok---projetodev.web.app
 ```
-
-
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameVictorCallegariv2803&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
